@@ -34,9 +34,7 @@ step8: end
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: vellachi tilak  
 RegisterNumber:  212223240172
-
 /*
-
 import numpy as np
 import matplotlib.pyplot as plt
 # Preprocessing Input data
@@ -63,9 +61,6 @@ print(y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
-
-
-
 ```
 
 ## Output:
