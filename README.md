@@ -31,7 +31,8 @@ step8: end
 ## Program:
 ```
 /*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
+Program to implement univariate Linear Regression to
+fit a straight line using least squares.
 Developed by: vellachi tilak  
 RegisterNumber:  212223240172
 /*
